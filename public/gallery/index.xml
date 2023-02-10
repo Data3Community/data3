@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Data3</title>
-    <link>https://tomanistor.com/gallery/</link>
+    <link>https://data3community.github.io/gallery/</link>
     <description>Recent content in Galleries on Data3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Feb 2023 13:48:50 +0800</lastBuildDate><atom:link href="https://tomanistor.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 13:48:50 +0800</lastBuildDate><atom:link href="https://data3community.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BuidlerDAO</title>
-      <link>https://tomanistor.com/gallery/buidlerdao/</link>
+      <link>https://data3community.github.io/gallery/buidlerdao/</link>
       <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
       
-      <guid>https://tomanistor.com/gallery/buidlerdao/</guid>
+      <guid>https://data3community.github.io/gallery/buidlerdao/</guid>
       <description>BuidlerDAO is the largest developer DAO in Asia.</description>
     </item>
     
     <item>
       <title>SeeDAO</title>
-      <link>https://tomanistor.com/gallery/seedao/</link>
+      <link>https://data3community.github.io/gallery/seedao/</link>
       <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
       
-      <guid>https://tomanistor.com/gallery/seedao/</guid>
+      <guid>https://data3community.github.io/gallery/seedao/</guid>
       <description>SeeDAO is the largest Chinese DAO.</description>
     </item>
     

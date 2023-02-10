@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data3</title>
-    <link>https://tomanistor.com/</link>
+    <link>https://data3community.github.io/</link>
     <description>Recent content on Data3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Feb 2023 13:48:50 +0800</lastBuildDate><atom:link href="https://tomanistor.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 13:48:50 +0800</lastBuildDate><atom:link href="https://data3community.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BuidlerDAO</title>
-      <link>https://tomanistor.com/gallery/buidlerdao/</link>
+      <link>https://data3community.github.io/gallery/buidlerdao/</link>
       <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
       
-      <guid>https://tomanistor.com/gallery/buidlerdao/</guid>
+      <guid>https://data3community.github.io/gallery/buidlerdao/</guid>
       <description>BuidlerDAO is the largest developer DAO in Asia.</description>
     </item>
     
     <item>
       <title>SeeDAO</title>
-      <link>https://tomanistor.com/gallery/seedao/</link>
+      <link>https://data3community.github.io/gallery/seedao/</link>
       <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
       
-      <guid>https://tomanistor.com/gallery/seedao/</guid>
+      <guid>https://data3community.github.io/gallery/seedao/</guid>
       <description>SeeDAO is the largest Chinese DAO.</description>
     </item>
     
     <item>
       <title>Episode 1: talk about the on-chain analysis with Navy (CN)</title>
-      <link>https://tomanistor.com/blog/footprint/</link>
+      <link>https://data3community.github.io/blog/footprint/</link>
       <pubDate>Fri, 10 Feb 2023 13:48:44 +0800</pubDate>
       
-      <guid>https://tomanistor.com/blog/footprint/</guid>
+      <guid>https://data3community.github.io/blog/footprint/</guid>
       <description>Data3 社区创建的初衷是希望给顶尖 Web3 Data 项目的 Buidler 们有一个交流的环境。我们这档节目会定期邀请社区 Web3 Data 方向的创业者们聊一聊他们正在从事的工作、行业认识和未来发展方向，传达创业者的声音和故事。让我们一起见证 web3 的数据革命！
 嘉宾：Navy, Co-founde@Footprint / @Navy_Tse 主持人： 千熠 @ScopeProtocol / @yangqianyi31 苏宇 @DRK Labs / @suyuliu6
 千熠：欢迎大家来到data3频道，今天我们邀请到了Footprint的CEO Navy，讲述footprint的历史和战略，从产品市场定位、技术特点出发，共同探讨Web3数据分析赛道的整体发展脉络。 Navy，欢迎来到Data3。
@@ -44,10 +44,10 @@ Navy：区块链数据公司，在索引以及处理链上数据时，会面临�
     
     <item>
       <title>We are data buidlers</title>
-      <link>https://tomanistor.com/about/</link>
+      <link>https://data3community.github.io/about/</link>
       <pubDate>Fri, 10 Feb 2023 13:47:40 +0800</pubDate>
       
-      <guid>https://tomanistor.com/about/</guid>
+      <guid>https://data3community.github.io/about/</guid>
       <description>Data3 Community might be the first data community that aims to witness and drive the data revolution in crypto.
 Follow us on Twitter, and check out our partnerships below.</description>
     </item>
