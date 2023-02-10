@@ -1,12 +1,12 @@
 title = "Data3"
-baseURL = "https://tomanistor.com"
+baseURL = "https://data3community.github.io"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
