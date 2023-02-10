@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data3</title>
+    <link>https://tomanistor.com/</link>
+    <description>Recent content on Data3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Feb 2023 13:48:50 +0800</lastBuildDate><atom:link href="https://tomanistor.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BuidlerDAO</title>
+      <link>https://tomanistor.com/gallery/buidlerdao/</link>
+      <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
+      
+      <guid>https://tomanistor.com/gallery/buidlerdao/</guid>
+      <description>BuidlerDAO is the largest developer DAO in Asia.</description>
+    </item>
+    
+    <item>
+      <title>SeeDAO</title>
+      <link>https://tomanistor.com/gallery/seedao/</link>
+      <pubDate>Fri, 10 Feb 2023 13:48:50 +0800</pubDate>
+      
+      <guid>https://tomanistor.com/gallery/seedao/</guid>
+      <description>SeeDAO is the largest Chinese DAO.</description>
+    </item>
+    
+    <item>
+      <title>Episode 1: talk about the on-chain analysis with Navy (CN)</title>
+      <link>https://tomanistor.com/blog/footprint/</link>
+      <pubDate>Fri, 10 Feb 2023 13:48:44 +0800</pubDate>
+      
+      <guid>https://tomanistor.com/blog/footprint/</guid>
+      <description>Data3 社区创建的初衷是希望给顶尖 Web3 Data 项目的 Buidler 们有一个交流的环境。我们这档节目会定期邀请社区 Web3 Data 方向的创业者们聊一聊他们正在从事的工作、行业认识和未来发展方向，传达创业者的声音和故事。让我们一起见证 web3 的数据革命！
+嘉宾：Navy, Co-founde@Footprint / @Navy_Tse 主持人： 千熠 @ScopeProtocol / @yangqianyi31 苏宇 @DRK Labs / @suyuliu6
+千熠：欢迎大家来到data3频道，今天我们邀请到了Footprint的CEO Navy，讲述footprint的历史和战略，从产品市场定位、技术特点出发，共同探讨Web3数据分析赛道的整体发展脉络。 Navy，欢迎来到Data3。
+在开始讨论这些话题前，我们想先了解一下，你是怎么进入 Web3 这个行业的，然后又决定发起 footprint analysis 这个项目呢？
+Navy：说起怎么进入这个行业，还得先说说我是怎么加入团队并且一起组建现在这个团队的。我跟我的另外两位co-founder一起，今年已经是合作的第11年。我从毕业实习第一年，就加入了这个团队。这10多年来，我们团队做过千万级用户的电商应用，也做过金融技术应用，包括交易/风险管理/信用模型等。 这些项目，大部分都能做到行业的前列，但是由于一些行业政策的原因，无法继续扩大规模。有趣的是，即使换过许多不同项目，我们核心团队还是能一直保持学习，并且一直一起往前走。 17年开始，我们团队开始接触区块链，是早期的矿工之一。18~19年我们尝试把量化交易的经验应用到区块链上，在CeFi做过一段时间量化交易，20年我带领团队开发过几个Dapp。所以我们团队其实一直都在关注区块链赛道，并且在尝试一些项目。21年团队经历了几番激烈讨论后，我们决定，要找一个值得投入10年的赛道，由于我们团队过往在web2的数据和模型以及前几年在web3领域沉淀了比较丰富的项目经验，于是我们把web2和Web3的这些经验做了一个结合，从web3数据赛道切入，这就是Footprint的由来。 在给项目起名字时，我们几乎是几个核心同事，同时选择了Footprint。这是一语双关，传递两个信息： i. 经验的传承。 我们的核心团队在 web2 领域紧密合作了10多年，涵盖了从金融科技、互联网到大数据。通过建立Footprint，我们的足迹从web2到web3。对于Footprint来说，它也代表着脚踏实地，让每一步（脚印）都有意义。 ii. 透明，可追溯。web2 和 web3的区别在于，链上数据具有透明和可追溯的特点。数据不会说谎，每一次互动都会在链上留下脚印。我们的目标是在用户和链上数据之间建立一座桥梁，使之离区块链的洞察力更近一步。
+千熠：非常有意思，过去的经验会在未来的某一天清晰地串连起来，这就是Footprint。 那么接着上面的话题，Footprint到底解决了用户的什么问题呢？为他们提供什么价值？以及用户如何获得这些信息？ Navy：接着上面的话题，我们可以说说，Footprint 到底解决了用户什么问题。 我们刚开始做Footprint的时候，市场上，缺乏低门槛的自助分析产品。用户要获取数据，获取信息，他们要么需要有深度的业务以及代码能力，要么只能查看一些由平台提供的固定面板，在易用以及自由度方面，被迫要做出选择。 Footprint不仅是1家支持0代码数据分析平台，同时也是一家API解决方案提供商，Footprint的API覆盖NFTGameFi以及DeFi等3大领域，同时也提供链底层数据，API有两种访问方式，一种是简单易用的restful api，一种是支持用户自定义，功能强大的SQL API。 Footprint在上线不到1年半的时间，我们累计覆盖了23条公链，解析了70多万个NFT collections和2000多个链游Game的数据。目前我们已经开放了6条公链近实时底层数据。除了底层数据外，Footprint的一个最大的特色是对链上数据进行了抽象，提供了有业务意义的数据表以及商业指标，让没有技术背景的人也能直接使用。 这些数据，可以为用户提供不仅是整个web3行业各个领域的发展概貌和趋势，也能让用户深入到单个公链生态，单个项目，以及做用户群体画像分析。这些分析，不仅能应用到行业/项目运营，也能应用到投资分析。
+苏宇：我也简单分享一下我作为数据分析师是如何使用footprint的，我是如何使用footprint的。对我来说footprint功能很强大的，信息也比较全，我会用footprint看几个方面的数据，一个是宏观的市场数据，比如各条链上DeFi总锁仓量的数据，这些数据呢我一般会用footprint很好用的图表功能将其固化下来；另一个是监控一些热点项目的链上资金变动，我们知道项目筹码结构的变动和项目代币价格密不可分，因此这也是通过链上数据分析发现财富密码的一个重要思路。低代码的特点也让我在日常分析使用起来非常方便，因此footprint也是我经常使用的数据分析工具
+千熠：我们都知道，footprint已经成为了Web3数据分析赛道最优秀的公司之一。从做出footprint这个产品，一直到现在，面临的最大的挑战是什么？
+Navy：区块链数据公司，在索引以及处理链上数据时，会面临一些挑战，包括： a. 海量数据的处理。随着区块链上数据量的增加，数据索引将需要扩大规模以处理增加的负载并提供对数据的有效访问。因此，它导致了更高的存储成本；缓慢的指标计算和增加数据库服务器的负载。 b. 复杂的数据生产流程，比如指标的生成。 c. 数据集成能力。为了给用户提供最大的价值，区块链索引解决方案可能需要将其数据索引与其他数据或者系统集成，比如off-chain data，web2 server log。这很有挑战性，需要在技术架构和数据架构设计上投入大量精力。</description>
+    </item>
+    
+    <item>
+      <title>We are data buidlers</title>
+      <link>https://tomanistor.com/about/</link>
+      <pubDate>Fri, 10 Feb 2023 13:47:40 +0800</pubDate>
+      
+      <guid>https://tomanistor.com/about/</guid>
+      <description>Data3 Community might be the first data community that aims to witness and drive the data revolution in crypto.
+Follow us on Twitter, and check out our partnerships below.</description>
+    </item>
+    
+  </channel>
+</rss>
