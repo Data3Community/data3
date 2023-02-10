@@ -1,0 +1,66 @@
+title = "Data3"
+baseURL = "https://tomanistor.com"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+  tagline = "Data3"
+  author = "Data3"
+  description = "Data3 Community might be the first data community that aims to witness and drive the data revolution in crypto."
+  logoBig = "/images/logo/logo_data3.svg"
+  logoSmall = "/images/logo/logo_data3.svg"
+  favicon = "favicon.ico"
+  opengraphImage = "/images/logo/logo_data3_banner_dark.png"
+  email = "data3_community@gmail.com"
+  googleTagManager = ""
+  customCSS = true
+
+  # Social media links in footer
+  twitter = "https://twitter.com/Data3_Community"
+  linkedin = ""
+  github = ""
+  facebook = ""
+
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = true
+  cacheBustJS = true
+
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = true
+  ajaxFormspreeGold = true
+  ajaxBasin = false
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Partnership"
+  url  = "/#partnership"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 4
