@@ -1,5 +1,5 @@
 title = "Data3"
-baseURL = "https://data3community.github.io"
+baseURL = "https://www.data3.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
